@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hi, Shivani 👋 Software Developer | MERN Stack | Backend Systems | Open Source Enthusiast</h1>
+<h1 align="center">Hi 👋, I'm Hi, Shivani 👋 Aspiring Software Developer | MERN Stack | Backend Systems | Open Source Enthusiast</h1>
 <h3 align="center">I’m a software developer focused on building scalable backend systems and clean full-stack applications. I work primarily with the MERN stack and enjoy designing APIs, managing databases, and structuring maintainable codebases. Currently exploring open-source development and collaborative workflows. I value code quality, clarity, and continuous improvement.</h3>
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
