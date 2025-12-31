@@ -3,13 +3,10 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shivanisamant981/shivanisamant981/output/snake.svg" alt="Snake animation" />
+</p>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanisamant981&label=Profile%20views&color=0e75b6&style=flat" alt="shivanisamant981" /> </p>
