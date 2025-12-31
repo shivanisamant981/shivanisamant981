@@ -4,6 +4,7 @@ on:
   schedule:
     - cron: "0 0 * * *"   # runs once daily
   workflow_dispatch:
+  #snake workflow
 
 jobs:
   generate:
@@ -24,3 +25,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
